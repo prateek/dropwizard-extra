@@ -18,7 +18,7 @@
   </description>
 
   <properties>
-    <kafka.version>0.8.2.2</kafka.version>
+    <kafka.version>0.8.2.1</kafka.version>
     <scala.version>2.10</scala.version>
   </properties>
 <!-- 
